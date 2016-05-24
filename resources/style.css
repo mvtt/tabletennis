@@ -62,3 +62,7 @@ body {
 .header img {
   display: inline-block;
 }
+
+.content {
+  background-color: #000000;
+}
