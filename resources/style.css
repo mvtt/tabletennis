@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #ccc;
+  background: #ffffff;
 }
  
 .nav ul {
@@ -63,8 +63,3 @@ body {
   display: inline-block;
 }
 
-.content {
-  background-color: #ffffff;
-  
-  height: calc(100% - 165px);
-}
