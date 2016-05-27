@@ -6,6 +6,7 @@ body {
 
 #page-wrap {
   width: 55.33%;
+  margin-left: 25%;
 }
 .nav ul {
   list-style: none;
@@ -131,6 +132,3 @@ body {
   margin-left: 10%;
 }
 
-.content {
-  margin-left: 25%;
-}
