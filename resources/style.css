@@ -90,6 +90,7 @@ body {
   margin: 2%;
   overflow: hidden;
   width: 500px;
+  float: right;
 }
 
 .hov2 img {
