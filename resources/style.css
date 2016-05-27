@@ -105,3 +105,25 @@ body {
   transform: scale(1.1);
 }
 
+ .row1 p {
+  float: right;
+  margin-right: 10%;
+  margin-top: -25%
+}
+
+.row1 img {
+  float: left;
+  
+}
+
+.row2 {
+  margin-top: -4.125%;
+  margin-right: .8%;
+}
+
+.row2 p {
+  float: left;
+  margin-top: 25%;
+  margin-left: 10%;
+}
+
